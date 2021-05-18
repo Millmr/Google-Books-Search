@@ -1,0 +1,21 @@
+.navbar {
+    background-color: rgb(57, 57, 57);
+    color: rgb(110, 133, 133);
+}
+
+.form-group {
+    background-color: rgb(110, 133, 133);
+}
+
+.card-body{
+    background-color: rgb(110, 133, 133);
+}
+
+.btn {
+    background-color: rgb(57, 57, 57);
+    color: white;
+}
+
+.card h5 {
+    color: rgb(110, 133, 133);
+}

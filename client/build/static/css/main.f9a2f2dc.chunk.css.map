@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,QACI,wBAAiC,CACjC,aACJ,CAMA,uBACI,wBACJ,CAEA,KACI,wBAAiC,CACjC,UACJ,CAEA,SACI,aACJ,CApBA,WACI,wBAAoC,CACpC,WACJ","file":"main.f9a2f2dc.chunk.css","sourcesContent":[".jumbotron {\n    background-color: rgb(110, 133, 133);\n    color: azure;\n}"]}
