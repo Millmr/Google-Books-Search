@@ -2,6 +2,7 @@ const express = require("express");
 const PORT = process.env.PORT || 3001;
 const app = express();
 const mongoose = require("mongoose");
+const { default: App } = require("./client/src/App");
 const routes = require("./routes");
 
 
@@ -18,6 +19,10 @@ mongoose.connect(
     process.env.MONGODB_URI || "mongodb://localhost/googlebooks"
 );
 
+const PORT = process.env.PORT || '8080'
+app.set("port", PORT);
 
 
-app.listen(process.env.PORT || 5000);
+app.listen(PORT, () => {
+    console.log(`🌎 ==> API server now on port ${PORT}!`);
+});
