@@ -20,6 +20,4 @@ mongoose.connect(
 
 
 
-app.listen(PORT, () => {
-    console.log(`🌎 ==> API server now on port ${PORT}!`);
-});
+app.listen(process.env.PORT || 5000);
