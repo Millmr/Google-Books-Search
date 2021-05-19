@@ -1,5 +1,5 @@
 # Google-Books-Search
-[![License: MIT](https://github.com/Millmr/Google-Books-Search/blob/main/images/home.png)
+![License: MIT](https://github.com/Millmr/Google-Books-Search/blob/main/images/home.png)
 
 ## Description
 This is a full stack mern app that helps average book worm find and save books they would like to read!
