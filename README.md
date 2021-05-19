@@ -3,7 +3,7 @@
 
 ## Description
 This is a full stack mern app that helps average book worm find and save books they would like to read!
-![image](https://github.com/Millmr/My-React-Portfolio/blob/master/images/about.png)
+
 
 ## How it works
 Simply search a book by name or author.  You can then view the book, or save the book to your "saved books page".
